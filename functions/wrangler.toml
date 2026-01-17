@@ -1,5 +1,4 @@
 name = "shortlink-bugistoto"
 compatibility_date = "2025-10-14"
 compatibility_flags = ["nodejs_compat"]
-workers_dev = true
-main = "dist/_worker.js"
+pages_build_output_dir = "dist"
